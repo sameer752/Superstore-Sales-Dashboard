@@ -25,4 +25,4 @@ An interactive sales dashboard built using Power BI.
 -Interactive Slicers
 
 ## Dashboard Preview
-![Dashboard Preview](SuperstoreSalesDashboardImage.png)
+![Dashboard Preview](./Superstore%20Sales%20Dashboard%20Image.png)
